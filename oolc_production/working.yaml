@@ -2,5 +2,5 @@ project_id: oomlout_tdpbmct_nineteen_inch_rack_sliding_tray
 project_name: Oomlout Tdpbmct Nineteen Inch Rack Sliding Tray
 project_repo: https://github.com/oomlout/oomlout_tdpbmct_nineteen_inch_rack_sliding_tray
 production_format:
-  oolc_1:
+  oolc_1_hardware_aluminium_extrusion_2020_nineteen_inch_rack_mount_bracket:
     file_location: source_files/oolc_1.cdr
