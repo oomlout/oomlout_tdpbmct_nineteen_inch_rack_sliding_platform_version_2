@@ -1,5 +1,7 @@
 # Oomlout Tdpbmct Nineteen Inch Rack Sliding Platform Version 2
 Oomlout Tdpbmct Nineteen Inch Rack Sliding Platform Version 2  
+sizes
+* platform diemensions 1000 mm x 420 mm
   
 
 
