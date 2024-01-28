@@ -12,3 +12,13 @@
 * thickness:   
 * material:   
  
+
+### oolc_2_full_size_platform_oobb_template
+* link: [/oolc_2_full_size_platform_oobb_template](oolc_2_full_size_platform_oobb_template)  
+![](oolc_2_full_size_platform_oobb_template/working_300.png)  
+![](oolc_2_full_size_platform_oobb_template/image_300.jpg)  
+* width:   
+* height:   
+* thickness:   
+* material:   
+ 
