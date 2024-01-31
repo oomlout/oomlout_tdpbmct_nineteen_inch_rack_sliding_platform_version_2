@@ -6,3 +6,5 @@ production_format:
     file_location: source_files/oolc_1.cdr
   oolc_2_full_size_platform_oobb_template:
     file_location: source_files/oolc_2.cdr
+  oolc_3_120_ml_tray_half_shelf:
+    file_location: source_files/oolc_3.cdr
